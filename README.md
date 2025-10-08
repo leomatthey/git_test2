@@ -1,5 +1,4 @@
-'this line is written by person A trying to be person b'
-# git_test2
+'vcjebveurv'
 test 2
 <<<<<<< HEAD
 'prova'
